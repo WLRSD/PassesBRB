@@ -1,0 +1,52 @@
+807.2	Recanto das Emas (300/500) > Avenida Monjolo (Fórum/IFB) > Avenida Buritis;R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+813.2	Recanto das Emas (EPNB – EPIA) > W3 Sul – Norte;R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+872.5	Recanto das Emas (Q 300-500)/ Taguacenter (Feira dos Goianos);R$ 3,50	URBI – MOBILID. URBANA – BACIA 03
+812.1	Recanto das Emas > P Norte (Via Leste – QNR 05);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.817	Taguatinga Norte > Samambaia Sul > Recanto das Emas (Q.800) > Riacho Fundo II (QS 18);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.870	Recanto das Emas (Q. 800)/ Riacho Fundo II/ Rodoviária do Plano Piloto (Eixo);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+806.1	Recanto das Emas (Quadra 800) > Riacho Fundo II (Av. Contorno) > Estação Furnas;R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+0.812	Recanto das Emas > Expansão P Norte – Sul (Estádio);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.809	Recanto das Emas/ Rodoviária do Plano Piloto (Eixo);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+805.7	Recanto das Emas (Riacho Fundo II) > Águas Claras;R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+812.2	Recanto das Emas (Riacho Fundo II – QNs) > P Norte (Via Leste – QNR 05);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.873	Recanto das Emas (Q. 800)/ Riacho Fundo II > Setor O;R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+818.1	Recanto das Emas/ SAAN (Estrutural);R$ 5,00	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.819	Recanto das Emas (Quadra 800) Riacho Fundo II > L2 Sul – Norte (EPNB – Esplanada – UnB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.878	Recanto das Emas (Qd. 600/800) – Riacho Fundo II > SIA – SAAN;R$ 5,00	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+805.8	Recanto das Emas > Taguatinga Centro (via Boca ds Mata);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+823.2	Recanto das Emas/ Guará (via Núcleo Bandeirate > Free Park);R$ 5,00	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+813.1	Recanto das Emas > Rodoviária do Plano Piloto (EPTG – SIA – SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.808	Recanto das Emas/ Setor O;R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.810	Recanto das Emas > Rodoviária do Plano Piloto (EPNB – SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.814	Recanto das Emas > Samambaia Norte – Sul (Expansão);R$ 3,50	URBI – MOBILID. URBANA – BACIA 03
+807.1	Recanto das Emas > Estação Furnas;R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+805.3	Recanto das Emas > Taguacenter (Comercial > Samdu Sul – Norte);R$ 3,50	EXPRESSO SÃO JOSÉ
+0.872	Recanto das Emas (Q.800)/ Riacho Fundo II/ Taguacenter (Feira dos Goianos);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+0.813	Recanto das Emas > W3 Sul – Norte (EPTG – ESPM);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+807.6	Recanto das Emas (Q 800);R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+0.805	Recanto das Emas > Taguacenter (Buritinga – Feira dos Goianos);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+805.2	Recanto das Emas/ Taguatinga Centro;R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+874.4	Recanto das Emas (Q.800) > Rodoviária do Plano (EPNB-SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+807.9	Recanto das Emas > Estação Furnas do Metrô (Qd 600/ 800);R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+0.960	Recanto das Emas > Vicente Pires (Pistão Norte – Sul);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+872.2	Recanto das Emas (Q 800) > Riacho Fundo II (QS 18) > Taguatinga Centro;R$ 3,50	URBI – MOBILID. URBANA – BACIA 03
+0.822	Recanto das Emas > Lago Sul (Aeroporto);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.818	Recanto das Emas > SIA – Cruzeiro – SAAN;R$ 5,00	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.816	Recanto das Emas (EPNB – EPIA – Zoológico) > L2 Sul – Norte (Esplanada);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.874	Recanto das Emas (Quadra 800) – Riacho Fundo II > Rodoviária do Plano (EPNB – SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+805.9	Recanto das Emas/ Taguacenter (via Boca da Mata);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+0.823	Recanto das Emas/ Guará (ParkShopping);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03 > AUTO VIAÇÃO MARECHAL – BACIA 04
+823.1	Recanto das Emas (Qd 800) – Riacho Fundo II > Guará (ParkShopping);R$ 5,00	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+872.9	Recanto das Emas (Q 800) > Riacho Fundo II > Taguacenter (via Boca da Mata);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+872.8	Recanto das Emas (Q 800) > Taguatinga Centro (via Boca da Mata);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04
+805.6	Recanto das Emas/ Águas Claras;R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+870.7	Recanto das Emas (Qd. 800) > Rodoviária do Plano Piloto (Eixo);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+815.1	Recanto das Emas (Qd 400/600/800) > Gama;R$ 3,50	URBI – MOBILID. URBANA – BACIA 03
+0.871	Recanto das Emas (Quadra 800) > Riacho Fundo II (EPNB – EPTG) > Rodoviária do Plano Piloto (SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+808.1	Recanto das Emas > Setor O (Ceilândia Sul-Norte – Feira da Ceilândia);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+807.8	Recanto das Emas > Riacho Fundo II (QS18);R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+872.3	Recanto das Emas (Q 800) > Riacho Fundo II > Taguacenter;R$ 3,50	EXPRESSO SÃO JOSÉ
+805.1	Recanto das Emas/ Taguatinga Centro (Pistão Sul – Comercial Sul);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+871.3	Recanto das Emas (Quadra 800 – EPNB – EPIA) > W3 Sul – Norte;R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+871.2	Recanto das Emas (Quadra 600 > 800) > Riacho Fundo II (EPNB) > W3 Sul – Norte;R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+814.1	Recanto das Emas > Samambaia Nortel -Sul (Expansão);R$ 3,50	URBI – MOBILID. URBANA – BACIA 03

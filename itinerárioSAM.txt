@@ -1,0 +1,82 @@
+0.056	Samambaia (2 Avenida) > P Sul (Av Hélio Prates – Via – P1 – P3);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+0.367	Samambaia Norte (2 Avenida) > Taguatinga Sul (Católica);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+0.825	Samambaia Sul (2 Avenida) > Rodoviária do Plano Piloto (EPNB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.817	Taguatinga Norte > Samambaia Sul > Recanto das Emas (Q.800) > Riacho Fundo II (QS 18);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.845	Samambaia Sul (2 Avenida) > SIA > Cruzeiro > SAAN;R$ 5,00	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.340	Terminal de Samambaia Sul > Setor Habitacional Água Quente;R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+372.3	Samambaia Norte (2 Avenida) > Taguacenter (HRT);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.394	Samambaia Sul (1 Avenida) > Rodoviária do Plano Piloto (EPTG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.853	Samambaia Sul (2 Avenida – EPNB – EPIA) > L2 Sul – Norte (Esplanada – UnB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.841	Samambaia Sul (1 Avenida) > SIA > SAAN;R$ 5,00	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.959	Taguatinga Sul (Católica – Taguatinga Shopping – Samdu Sul) > Colônia Agrícola Samambaia > Comercial;R$ 2,50	AUTO VIAÇÃO MARECHAL – BACIA 04
+0.397	Samambaia Norte (2 Avenida) > Setor O;R$ 3,50	COOPERTRAN
+0.380	Samambaia Norte (2 Avenida) > Rodoviária do Plano Piloto (EPTG-SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+366.1	Samambaia Sul (2 Avenida) > Samambaia Norte (1 Avenida) > Estação Furnas e Samambaia;R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+0.373	Samambaia Norte (2 Avenida) > Rodoviária do Plano Piloto (EPNB-Eixo);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+372.5	Samambaia Norte (1 Avenida) > Taguacenter (SHIS);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+380.7	Terminal Samambaia Sul > Samambaia Norte (Q. 425 – 1 Avenida) > Rodoviária do Plano Piloto (EPTG – SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+394.1	Samambaia Sul (2 Avenida) > Rodoviária do Plano Piloto (Pistão Sul – EPTG – SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+380.9	Terminal Samambaia Sul > Samambaia Norte (Q. 425 – 2 Avenida) > Rodoviária do Plano Piloto (EPTG – SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.392	Samambaia Norte (1 Avenida) > L2 Sul – Norte > Esplanada > UnB (EPNB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+396.3	Samambaia Sul (2 Avenida) > W3 Sul – Norte (EPNB – Parkshopping – Setor Policial Sul);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.049	Setor O (M2) > Taguatinga Centro (QNL – Ceilândia Norte – Taguatin Shopping) > Colônia Ag. Samambaia;R$ 3,50	EXPRESSO SÃO JOSÉ
+0.399	Samambaia Sul (1 Avenida) > Setor P Sul;R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+0.393	Samambaia Sul (1 Avenida) > Taguacenter (Boca da Mata);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+366.7	Samambaia Sul (1 Avenida) > Samambaia Norte (1 Avenida) > Estação Furnas e Samambaia;R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+845.2	Samambaia Sul (1 Avenida) > Guará > SIA > SAAN – EPNB;R$ 5,00	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.253	Santa Maria > Setor O (BR-040 – Samambaia);R$ 5,00	VIAÇÃO PIONEIRA
+844.2	Samambaia Norte (2 Avenida – Estrutural – SIA – SOFN) > Setor Terminal Norte;R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+398.3	Samambaia Sul (1 Avenida) > P Norte > Expansão Setor O;R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+398.1	Samambaia Sul (2 Avenida) > Setor O;R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+206.0	Gama > Samambaia (Metrô) Via Expansão;R$ 3,50	HELIANO LUCIO DA SILVA JESUS
+372.9	Samambaia Norte (2 Avenida)/Vicente Pires;R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+834.1	Samambaia Norte e Sul > Presídio Nacional (EPNB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+367.6	Católica (SAMDU Sul) > Samambaia Norte (QR 400/600);R$ 3,50	URBI – MOBILID. URBANA – BACIA 03
+0.814	Recanto das Emas > Samambaia Norte – Sul (Expansão);R$ 3,50	URBI – MOBILID. URBANA – BACIA 03
+367.8	Samambaia Norte (1 Avenida) > Águas Claras;R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+0.834	Samambaia Norte (2 Avenida) > Lago Sul (Aeroporto);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+392.2	Samambaia Norte (2 Avenida – EPNB) > L2 Sul – Norte (Esplanada – UnB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+380.3	Samambaia Norte (2 Avenida) > W3 Sul (Primavera- EPTG- Semiexpressa);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+391.3	Samambaia Norte (1 Avenida – EPNB – ParkShopping – Setor Policial Sul) > W3 Sul – Norte;R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+056.4	Samambaia Norte (2 Avenida) > P Sul (Hélio Prates – P4-P3-P2);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+0.050	Samambaia Norte (QN 423-425) > Taguacenter (Samdu Norte-Sul > Avenida Central);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+372.4	Samambaia Norte (2 Avenida) > Taguacenter;R$ 3,50	URBI – MOBILID. URBANA – BACIA 03 > AUTO VIAÇÃO MARECHAL – BACIA 04
+367.5	Católica (SAMDU Sul) > Samambaia Norte (QR 200/400);R$ 3,50	URBI – MOBILID. URBANA – BACIA 03
+0.830	Taguanorte > Samambaia Sul (1 Avenida) > Samambaia Norte (2 Avenida);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+206.2	Gama/Tamanduá/Estação Samambaia;R$ 3,50	VIAÇÃO PIONEIRA > URBI – MOBILID. URBANA – BACIA 03
+366.3	Samambaia Norte (Expansão) > Estação Samambaia;R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+0.372	Samambaia Norte (2 Avenida) > Taguacenter;R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+373.9	Terminal Samambaia Sul > Samambaia Norte (Q. 425 – 2 Avenida) > Rodoviária do Plano Piloto (EPNB – EIXO);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.821	Samambaia Sul (1 Avenida) > Rodoviária do Plano Piloto (EPNB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+372.2	Samambaia Norte (1 Avenida) > Taguacenter;R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+844.1	Samambaia Norte (2 Avenida) > Setor Terminal Norte (Estrutural > SIA > SOFN);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+850.1	Samambaia Norte (2 Avenida – Qd 400/600) > Guará II e I (via Pistão Sul);R$ 5,00	AUTO VIAÇÃO MARECHAL – BACIA 04
+373.2	Samambaia Norte (1 Avenida) > Rodoviária do Plano Piloto (SHIS – EPNB – EIXO);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.844	Samambaia Norte (2 Avenida) > SIA > Cruzeiro > SAAN;R$ 5,00	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+373.3	Samambaia Norte (2 Avenida) > Rodoviaria do Plano Piloto (via Estrutural);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+393.4	Samambaia Sul (2 Avenida) > Taguacenter (Boca da Mata);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.835	Samambaia Sul (2 Avenida) > Lago Sul (Aeroporto);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+844.3	Samambaia Norte (2 Avenida) > SIA > SAAN (EPNB-Guará);R$ 5,00	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+380.2	Samambaia Norte (1 Avenida) > Rodoviária do Plano Piloto (EPTG – SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+398.4	Samambaia Sul (2 Avenida) > Expansão Setor O (QNQ/QNR);R$ 3,50	COOPERTRAN
+206.8	Condomínio Asa Branca (BR 060) > Samambaia Sul (Qs 502) via Buritis I e II;R$ 5,00	EMILTON PEREIRA DE QUEIROZ
+393.7	Samambaia Sul (1 Avenida) > Taguatinga Centro (Pistão Sul – Católica);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+367.2	Samambaia Norte (1 Avenida) > Taguatinga Sul (Católica);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+0.054	Samambaia Sul (2 Avenida) > Taguatinga (SAMDU Sul > Norte – Avenida Central – HRT);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+0.273	Santa Maria (Q-400) > Setor O (BR 040 – Samambaia);R$ 5,00	VIAÇÃO PIONEIRA
+391.7	Terminal Samambaia Sul > Samambaia Norte (Quadra 425 – 1 Avenida – EPNB – Setor Policial Sul) > W3 Sul – Norte;R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.851	Samambaia Sul (1 Avenida – EPNB – EPIA) > L2 Sul – Norte (Esplanada – UnB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.398	Samambaia Sul (1 Avenida) > Setor O;R$ 3,50	COOPERTRAN
+0.053	Samambaia Sul (1 Av) > Taguatinga (Boca da Mata – Shopping – Centro – Samdu e Comercial Norte – QNG);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.391	Samambaia Norte (2 Avenida – Avenida Leste) > W3 Sul e Norte (EPNB – EPIA – Parkshoping – Setor Policial Sul);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+396.2	Samambaia Sul (1 Avenida) > W3 Sul – Norte (EPNB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.850	Samambaia Sul (2 Avenida) > Guará II e I (via Pistão Sul);R$ 5,00	AUTO VIAÇÃO MARECHAL – BACIA 04
+373.7	Terminal Samambaia Sul > Samambaia Norte (Q. 425 – 1 Avenida) > Rodoviária do Plano Piloto (SHIS – EPNB – EIXO);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+391.9	Terminal Samambaia Sul > Samambaia Norte (Quadra 425 – 2 Avenida) > W3 Sul e Norte (EPNB – Parkshopping – Setor Policial Sul);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+397.2	Samambaia Norte (1 Avenida) > Setor O;R$ 3,50	COOPERTRAN
+393.6	Samambaia Sul (2 Avenida) > Taguatinga Centro (Pistão Sul – Católica);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+366.2	Terminal de Samambaia Norte > Aterro Sanitário;R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+865.1	Samambaia Sul (2 Avenida) > Gama (Ponte Alta – Casa Grande);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+814.1	Recanto das Emas > Samambaia Nortel -Sul (Expansão);R$ 3,50	URBI – MOBILID. URBANA – BACIA 03
+0.366	Samambaia Sul (1 Avenida) > Samambaia Norte (1 e 2 Avenida – BRB) – Furnas;R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+056.2	Samambaia Norte (1 Avenida) > Setor P Sul (Av Hélio Prates – Via P4-P3-P2);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03

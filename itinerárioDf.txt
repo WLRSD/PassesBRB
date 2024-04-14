@@ -1,0 +1,601 @@
+0.006,Cruzeiro / Sudoeste / W3 Sul / Octogonal
+0.007,CIRCULAR - W3 Norte - Sul (Esplanada - SQN 212 - 213)
+0.011,Terminal Asa Norte (Entre Quadras Norte) / Esplanada (L2 Norte) / Aeroporto (Eixão Sul)
+0.018,PARANOÁ PARQUE / W3 NORTE (VIA PONTE JK)
+0.022,W3 Norte - L2 Sul (SDN) / Vila Telebrasilia / SQS 616 (SQS 216 - 416) / W3 Sul - L2 Norte (SDN)
+0.023,Terminal Asa Norte (SQN 212 - 213) / L2 Norte - W3 Sul (SDN) / Vila Telebrasília / L2 Sul - W3 Norte (SDN)
+0.024,Cruzeiro / Octogonal - Sudoeste / Esplanada (CNB)
+0.030,Terminal Asa Norte (SQN 212 - 213) / W3 Norte - Sul / Aeroporto
+0.031,CIRCULAR - W3 Sul - Norte / L2 Norte - Sul (Esplanada)
+0.032,CIRCULAR - Terminal Asa Sul / L2 Sul - Norte (Esplanada) / W3 Norte - Sul
+0.082,Núcleo Bandeirante (Metropolitana)/ EPIA (Parkshopping)/ SAAN / RCG / Água Mineral
+0.087,Riacho Fundo II - I / Núcleo Bandeirante (SOF Sul - SIA) / Cruzeiro
+0.090,Guará (QE 44) / SIA Trecho 2 / SAAN (Feira dos Importados)
+0.101,Condomínio La Font / Paranoá / Rodoviária do Plano Piloto (W3 Norte)
+0.102,Rodoviária do Plano Piloto (W3 Sul) / Lago Sul (Ponte das Garças) / Aeroporto
+0.103,Rodiviária do Plano Piloto / Avenida das Nações Sul
+0.104,Rodoviária do Plano Piloto / Vila Planalto / Palácio da Alvorada / Setor de Clubes Esportivos Norte
+0.107,Rodoviária Plano Piloto / W3 - L2 Sul (Esplanada)
+0.108,Rodoviária do Plano Piloto / Três Poderes
+0.110,Rodoviária do Plano Piloto / UNB
+0.111,Rodoviária do Plano Piloto / Presídio Nacional (Papuda)
+0.114,Rodoviária do Plano Piloto / L2 - W3 Sul
+0.116,Rodoviária do Plano Piloto / W3 - L2 Norte
+0.128,Rodoviária Plano Piloto / W3 Norte / Granja do Torto
+0.132,Laranjeiras / Vargem Bonita / EPVB / EPIA / W3 Sul / Rodoviária do Plano Piloto
+0.136,Rodoviária do Plano Piloto / W3 Norte / Clube do Congresso (Hospital SARAH) / L2 Norte
+0.140,Rod. Plano Piloto / Vila Planalto / Av. Nações Norte / L2 Norte
+0.143,Rodoviária do Plano Piloto / Hospital da Criança / Regimento de Cavalaria da Guarda
+0.147,São Sebastião (Residencial do Bosque) / Lago Sul (Ponte das Garças) / Rodoviária do Plano Piloto (L2 Sul)
+0.150,Cruzeiro (Administração) / Rodoviária do Plano Piloto (Eixo)
+0.151,Cruzeiro / W3 Sul (Administração / Memorial JK)
+0.152,Rodoviária do Plano Piloto / Cruzeiro / Esplanada (SIG)
+0.153,Guará II - I / Rodoviária do Plano Piloto (SIA - Eixo)
+0.156,Guará I - II / W3 Sul
+0.158,Cidade Estrutural (SIA) / Rodoviária do Plano Piloto (W3 Sul)
+0.160,Núcleo Bandeirante (Zoológico) / Rodoviária do Plano Piloto (Eixo)
+0.161,Núcleo Bandeirante (EPNB - EPIA - ParkShopping) / Cruzeiro (Feira dos Importados - SMU)
+0.162,Guará II / Rodoviária do Plano Piloto (QE 44 - W3 Sul - Zoo)
+0.163,Núcleo Bandeirante (ParkShopping) / W3 Sul (SIG - Setor Policial Sul)
+0.166,Cruzeiro / L2 Sul (Rodoviária do Plano Piloto)
+0.167,Guará II - I / EPTG / L2 Sul - Norte / UnB / Terminal Asa Norte
+0.168,Cruzeiro / Sudoeste / L2 Norte (UnB)
+0.169,Cruzeiro / Sudoeste / Eixo Monumental / W3 Norte
+0.170,Rodoviária do Plano Piloto (L2 Sul) / Lago Sul (Ponte das Garças) / Barreiros (EDF-140)
+0.171,Núcleo Bandeirante (EPIA - Zoológico) / W3 Sul - Norte
+0.172,Riacho Fundo I (EPNB) / Rodoviária do Plano Piloto (Zoológico - Eixo)
+0.175,Riacho Fundo (EPNB - EPIA - Zoológico) / W3 Sul - Norte
+0.176,Riacho Fundo (EPNB - EPIA - Zoológico) / L2 Sul - Norte / Esplanada / UNB / Terminal Asa Norte
+0.177,Riacho Fundo (EPNB - ParkShopping) / W3 Sul (SIG - Setor Policial Sul)
+0.180,São Sebastião / Morro da Cruz / João Cândido / Itaipú / Rodoviária do Plano Piloto (Ponte JK)
+0.182,São Sebastião (Residencial do Bosque) / SAAN (Zoológico - Parkshopping - SIA - Carrefour Norte)
+0.185,Paranoá / Paranoá Park / Itapoã / Rodoviária do Plano Piloto (Eixo Sul)
+0.186,São Sebastião / Lago Sul (Ponte das Garças) / Rodoviária do Plano Piloto (Eixo Sul)
+0.195,São Sebastião (Residecial do Bosque) / Lago Sul (QI 15 - Ponte das Garças) / Rodoviária do Plano Piloto (L2 Sul)
+0.196,São Sebastião (Residencial do Bosque) / Lago Norte (Ponte JK - Setor de Clubes Norte)
+0.197,São Sebastião (Residencial do Bosque - Vila São José - Quadra 100 e 200) / W3 Norte (Ponte JK)
+0.224,Gama / Rodoviária do Plano Piloto ( CORUJÃO )
+0.300,Setor P Sul / Rodoviária do Plano Piloto (Eixo)
+0.301,Setor P Sul / W3 Sul (P3 Sul - SIG)
+0.305,Taguatinga Sul / W3 Sul (SIG)
+0.306,Taguatinga Sul / Rodoviária do Plano Piloto (Eixo)
+0.310,Setor O / Rodoviária do Plano Piloto (Eixo)
+0.311,Setor O (via M2)/ W3 Sul (EPTG-SIG)
+0.312,Setor O (M2) / Rodoviária do Plano Piloto (Estrutural)
+0.313,Setor O (Via O3) / Pistão Norte (EPTG) / W3 Sul (SIG)
+0.314,QNR - Setor O 3- (Expansão) / Com. Norte - Samdú Norte / EPTG / Eixo / Rodoviária do Plano Piloto
+0.322,Setor M Norte (Via LJ2) / Rodoviária do Plano Piloto (EPTG - Eixo)
+0.323,Setor M Norte (Via LJ2) / W3 Sul (EPTG - SIG)
+0.324,Setor M Norte (Av. Hélio Prates) / Rodoviária do Plano Piloto (Estrutural)
+0.330,QNR 5 (CEILÂNDIA NORTE-SUL) / EPTG - SIG / W3 NORTE
+0.331,Setor O / Rodoviária do Plano Piloto (Estrutural)
+0.335,Setor O / Expansão Setor O / P 2 Norte / Guariroba / EPTG / SIG / W3 Sul
+0.336,Setor P Sul / Rodoviária do Plano Piloto (Eixo)
+0.338,Setor O (Expansão - P2 Norte) / L2 Sul - Norte / UNB / Terminal Asa Norte (semiexpressa)
+0.339,Setor P Sul / Estrutural / Eixo Monumental / L2 Norte / UnB / Terminal Asa Norte
+0.343,Setor O/ Rodoviária do Plano Piloto (Estrutural)
+0.345,Setor P Sul / L2 Sul (Estrutural)
+0.348,Setor O / L2 Sul - Norte / UNB / Terminal Asa Norte (semiexpressa)
+0.349,Taguatinga Sul / Estrutural (EPCT) / EPNB / EPGU / L2 Sul - Norte / UnB / Terminal Asa Norte
+0.370,Ceilândia (QNR 5) / Expansão Setor O / Estrutural / L2 Norte / UnB / Terminal Asa Norte
+0.371,Setor M Norte / Estrutural / Eixo Monumental / L2 Norte / UnB / Terminal Asa Norte
+0.373,Samambaia Norte (2 Avenida) / Rodoviária do Plano Piloto (EPNB-Eixo)
+0.374,Setor O (via Leste) / EPTG / SIG / W3 Norte / Terminal Asa Norte
+0.375,Setor O (Via N2) / EPTG / SIG / W3 Norte / Terminal Asa Norte
+0.376,Taguatinga Sul / W3 Norte (Estrutural)
+0.377,Setor M Norte / EPTG / SIG / W3 Norte / Terminal Asa Norte
+0.378,Setor P Sul / EPTG / W3 Norte / Terminal Asa Norte
+0.379,Setor O (via Hélio Prates / W3 Norte (Estrutural)
+0.380,Samambaia Norte (2 Avenida) / Rodoviária do Plano Piloto (EPTG-SIG)
+0.382,Setor O (Via Leste) / Rodoviária do Plano Piloto (Estrutural)
+0.383,Setor P Sul/ Rodoviária do Plano Piloto (Estrutural)
+0.385,QNR 5 (P1 Norte - P1 Sul) / EPTG / SIA / Rodoviária do Plano Piloto
+0.391,Samambaia Norte (2 Avenida - Avenida Leste) / W3 Sul e Norte (EPNB - EPIA - Parkshoping - Setor Policial Sul)
+0.392,Samambaia Norte (1ª Avenida - EPNB) / L2 Sul - Norte / Esplanada / UNB / Terminal Asa Norte
+0.394,Samambaia Sul (1 Avenida) / Rodoviária do Plano Piloto (EPTG)
+0.400,Brazlândia (DF-240) / Rodoviária do Plano Piloto (EPTG - Eixo)
+0.403,Brazlândia (DF-240) / Rodoviária do Plano Piloto (Estrutural)
+0.404,Brazlândia (DF-180) / Rodoviária do Plano Piloto (EPTG - Eixo)
+0.405,Brazlândia (DF-180) / Rodoviária do Plano Piloto (Estrutural)
+0.411,Brazlândia (DF-180) / W3 Norte (Estrutural)
+0.412,W3 Norte - Sul (EPTG) / Brazlândia (DF-180)
+0.413,Brazlândia / W3 Sul (EPTG - SIG)
+0.420,Brazlândia (DF-430) / Rodoviária do Plano Piloto (Estrutural - EPVL - Eixo)
+0.421,Brazlândia (DF-430) / W3 Norte (Estrutural)
+0.423,Brazlândia (DF-430) / W3 Sul (Estrutural - EPIA - SIG)
+0.424,Brazlândia (DF-430) / W3 Sul e Norte (Estrutural - EPIA)
+0.501,Sobradinho / Plano Piloto (Eixo Norte - Sul)
+0.503,Sobradinho Q. 18 / SAAN / SIA / SGCV / TAS
+0.513,Sobradinho (Quadra 18) / W3 Norte - Sul
+0.516,Sobradinho / Esplanada (Grande Colorado / DF-425 - DF-150)
+0.517,Sobradinho II / W3 Norte - Sul (DF-150)
+0.518,Sobradinho II / Rodoviária do Plano Piloto (Esplanada)
+0.519,Sobradinho II (Mansões - Condomínio Sansão) / Eixo Norte - Sul
+0.520,Setor Oeste de Sobradinho / Eixo Norte - Sul
+0.521,Sobradinho / L2 Norte - Sul (UnB - Esplanada)
+0.522,Sobradinho I e II / Quadra 18 / Setor Oeste / L2 Norte - Sul (UnB - Esplanada)
+0.525,Nova Colina de Sobradinho / Eixo Norte - Sul
+0.526,Nova Colina de Sobradinho / W3 Norte - Sul
+0.527,Nova Colina / Sobradinho (Qd.18) / Cruzeiro (EPIA - Eixo Monumental - SIG)
+0.531,CIPLAN - FERCAL / W3 Norte - Sul
+0.551,Setor O (via M2) / W3 Sul (Semiexpresso) / EPTG-SIG
+0.552,Setor O / Rodoviária do Plano Piloto (Expansão - P2 Norte - Guariroba) Semiexpressa
+0.553,Setor O / W3 Sul (Expansão - P2 Norte - Guariroba) Semiexpressa
+0.554,Setor "P" Sul / Rodoviaria do Plano Piloto (P4-P3-P2) - Semiexpressa
+0.555,SETOR P SUL / W3 NORTE (P4 - P3 - P2) - SEMIEXPRESSA
+0.556,QNR 5 / RODOVIARIA DO PLANO PILOTO (P 2 NORTE - VIA LESTE) SEMIEXPRESSA
+0.557,QNR 5 (P Norte) / W3 Sul Via Leste - Semiexpressa
+0.558,Setor O (Ceilândia Norte - Sul) / EPTG / SIA / Eixo Sul / Rodoviária do Plano Piloto (Semiexpressa)
+0.600,Planaltina / Vila Buritis / Vila Vicentina / Setor Tradicional / Eixo Norte - Sul / Terminal da Asa Sul
+0.601,Planaltina Tradicional / Eixo Norte - Sul (EAS)
+0.604,Planaltina (Buriti III) / SAAN / SIA / TAS
+0.605,Planaltina / L2 Norte - Sul (UnB) / EAS
+0.616,Arapoangas / Eixo Norte - Sul (Terminal Asa Sul)
+0.617,Vale do Amanhecer / Eixo Norte - Sul / Terminal Asa Sul
+0.620,Planaltina / Vila Buritis / Vila Vicentina / Setor Tradicional / Eixo Norte / Rodoviária do Plano Piloto
+0.624,Planaltina / Esplanada (Eixo Norte) / Catedral
+0.631,Planaltina / Arapoangas / Sobradinho (Rua 07) / Eixo Norte - Sul / Terminal Asa Sul
+0.640,Planaltina / Vila Buritis / Vila Vicentina / Setor Tradicional / W3 Norte - Sul / Terminal da Asa Sul
+0.641,Planaltina (Buritis - Jardim Roriz) / W3 Norte - Sul (Terminal Asa Sul)
+0.643,Arapoangas (DF-128) / W3 Norte - Sul (Terminal Asa Sul)
+0.648,Vale do Amanhecer - Estâncias / Sudoeste (SIG)
+0.756,Paranoá /Itapoã / SAAN/ SIG / Sudoeste
+0.759,Itapoã (Água de coco) / Rodoviária do Plano Piloto (W3 Norte)
+0.760,Itapoã (Entrelagos - DF 250 ) / Paranoá / Rodoviária do Plano Piloto ( L2 Norte)
+0.761,Paranoá / Rodoviária do Plano Piloto (Ponte JK)
+0.762,Paranoá / Itapoã / Eixo Norte / Rodoviária do Plano Piloto
+0.763,Itapoã (Condomínio Del Lago) / Paranoá / Lago Sul (Ponte das Garças) / Rodoviária do Plano Piloto (L2 Sul)
+0.764,Itapoã / Rodoviária do Plano Piloto (Via Ponte JK)
+0.765,Itapoã (Condomínio Del Lago) / Paranoá / Lago Sul (Ponte das Garças) / Rodoviária do Plano Piloto (W3 Sul)
+0.768,Paranoá (Condomínio Del Lago) / SAAN / Sudoeste
+0.769,Itapoã (Condomínio Del Lago) / L2 Norte (UnB) / Rodoviária do Plano Piloto
+0.771,Itapoã (Condomínio Entrelagos - DF 250) / Paranoá / Rodoviária do Plano Piloto (Ponte JK)
+0.773,Paranoá (Itapoã - Entrelagos) / Eixo Sul (Via Ponte JK)
+0.780,Itapoã (Fórum - Condomínio Del Lago II - Rua do Baixinho) / Paranoá (DF-001) / Lago Sul (Ponte JK) / Rodoviária do Plano Piloto
+0.781,Itapoã (Rua do Baixinho) / Rodoviária do Plano Piloto (W3 Norte)
+0.809,Recanto das Emas/ Rodoviária do Plano Piloto (Eixo)
+0.810,Recanto das Emas / Rodoviária do Plano Piloto (EPNB - SIG)
+0.811,Riacho Fundo II (QS 18) / CAUB II (EPIA - Setor Policial Sul) / W3 SUL - NORTE (EPNB)
+0.813,Recanto das Emas / W3 Sul - Norte (EPTG - ESPM)
+0.816,Recanto das Emas (EPNB - EPIA - Zoológico) / L2 Sul - Norte / Esplanada / UNB / Terminal Asa Norte
+0.818,Recanto das Emas / SIA - Cruzeiro - SAAN
+0.819,Recanto das Emas (Quadra 800) / L2 Sul - Norte / Esplanada / UNB / Terminal Asa Norte (EPNB)
+0.821,Samambaia Sul (1 Avenida)/ Rodoviária do Plano Piloto (EPNB)
+0.825,Samambaia Sul (2 Avenida)/ Rodoviária do Plano Piloto (EPNB)
+0.841,Samambaia Sul (1 Avenida)/ SIA/ SAAN
+0.844,Samambaia Norte (2 Avenida) / SIA / Cruzeiro / SAAN
+0.845,Samambaia Sul (2 Avenida) / SIA / Cruzeiro / SAAN
+0.851,Samambaia Sul (1 Avenida - EPNB - EPIA) / L2 Sul - Norte / Esplanada / UNB / Terminal Asa Norte
+0.853,Samambaia Sul (2ª Avenida - EPNB - EPIA) / L2 Sul - Norte / Esplanada / UNB / Terminal Asa Norte
+0.871,Recanto das Emas (Quadra 800) / Rodoviária do Plano Piloto (EPTG -SIG)
+0.876,Riacho Fundo II (QS 18) / SIA - Cruzeiro - SAAN
+0.878,Recanto das Emas (Quadra 600 / 800) - SIA - SAAN
+0.881,Riacho Fundo II (QS 18) - CAUB II / Rodoviária do Plano Piloto (SIG-Pistão Sul)
+0.882,Riacho Fundo II (QS 18) / Rodoviária do Plano Piloto (EPNB-SIG)
+0.884,Riacho Fundo II (QS 18 - EPNB - Zoológico) / L2 Sul - Norte / Esplanada / UNB / Terminal Asa Norte
+0.900,Taguatinga Sul / Esplanada (Estrutural)
+0.902,Taguatinga Norte / QNL / Esplanada
+0.903,Setor P Sul / Esplanada (Estrutural)
+0.907,Sol Nascente Trecho II / Rodoviária do Plano Piloto (Via Estrutural)
+0.911,Setor O Expansão / SIA - Cruzeiro - Comercial Sudoeste / Rodoviária do Plano Piloto (Estrutural)
+0.913,QNR 5 (Expansão) / Cruzeiro / Sudoeste (Estrutural) / Rodoviária do Plano Piloto
+0.914,Setor P Sul / SAAN (Estrutural)
+0.920,Setor O (via Leste) / EPTG / Eixo Sul / Rodoviária do Plano Piloto
+0.921,QNR 5 (Via Leste) / EPTG / SIG / W3 Sul
+0.930,QNR 5 / Sol Nascente Trecho III (Via Estádio) / (EPTG - W3 Sul)
+0.932,Taguatinga Norte / Rodoviária do Plano Piloto
+0.942,Setor P Sul (QNL - J) / W3 Norte (EPCL)
+0.946,Vicente Pires / Rodoviária do Plano Piloto (EIXO)
+0.953,Vicente Pires / W3 Sul - Norte
+0.962,Vicente Pires / SIG (EPTG - Rodoviária do Plano Piloto - Esplanada)
+031.1,Rodoviária do Plano Piloto / Eixo Norte / Varjão / Eixo Norte - Sul
+031.2,Rodoviária do Plano Piloto / W3 Sul - Avenida das Nações (Pontão do Lago Sul - Setor de Clubes sul)
+035.1,Rodoviária do Plano Piloto / Guará I - II / Núcleo Bandeirante / Riacho Fundo / Candangolândia
+084.1,Riacho Fundo I / Núcleo Bandeirante / Setor de Oficinas Norte (SMU - Cruzeiro)
+100.2,Paranoá (Paranoá Parque) / Rodoviária do Plano Piloto (L2 Sul)
+100.3,Paranoá / Lago Sul (Ponte das Garças) / Rodoviária do Plano Piloto (W3 Sul)
+100.4,Itapoã / Paranoá / Cidade do Automóvel (Zoológico - Park Shopping - SIA)
+100.6,Itapoã / Paranoá / SIG / Sudoeste / SIA (Via Ponte JK - Vila Planalto)
+100.8,Paranoá / Itapoã / W3 Sul (Ponte JK)
+100.9,Itapoã (DF - 001) / W3 Sul (Via Ponte JK)
+1001,ROD. PLANALTINA (GO) – ROD. PLANO PILOTO VIA FEIRA / L2 NORTE / ESPLANADA
+1001D,ROD. PLANALTINA (GO) – ROD. PLANO PILOTO VIA FEIRA / L2 NORTE / ESPLANADA
+101.1,PARANOÁ (PARANOÁ PARQUE) / W3 NORTE / RODOVIÁRIA DO PLANO PILOTO
+101.8,Itapoã (Condomínio La Font - DF 250) / Paranoá / Rodoviária do Plano Piloto (Eixo Norte)
+102.1,Rodoviária do Plano Piloto / W3 Sul / Lago Sul (Ponte das Garças) / Aeoroporto (HFAB)
+103.2,Rodoviária do Plano Piloto / W3 Sul - Avenida das Nações (Academia de Tênis)
+1030,ROD. PLANALTINA (GO) – ROD. PLANO PILOTO VIA FEIRA / L2 NORTE / ESPLANADA
+104.1,Rodoviária do Plano Piloto / Vila Planalto
+104.2,Rodoviária do Plano Piloto / Palácio do Jaburu / Palácio da Alvorada / Avenida das Nações Norte
+105.2,Terminal Asa Sul / L2 Sul - Norte/ W3 Norte - Sul
+106.2,Estação Asa Sul / W3 Sul - Norte / L2 Norte - Sul
+107.1,Rodoviária do Plano Piloto / W3 - L2 Sul
+1071,ROD. PLANALTINA (GO) – PARK SHOPPING VIA FEIRA / EIXO W NORTE E SUL / SETOR POLICIAL / PELEZÃO
+1074,ROD. PLANALTINA (GO) - W3 NORTE E SUL VIA FEIRA
+108.3,Rodoviária do Plano Piloto / STJ - TST (Pier 21) / CJF
+108.5,Rodoviária do Plano Piloto / QGEx / SMU / Shopping Popular / Rodoferroviária
+108.6,Rodoviária do Plano Piloto / Shopping Popular (Rodoferroviária)
+108.7,Rodoviária do Plano Piloto (W3 Sul - Terminal Asa Sul) / TJDFT (Fórum) /Colégio Militar Tiradentes / Rodoviária Interestadual de Brasília
+108.8,Rodoviária do Plano Piloto (W3 Sul - Terminal Asa Sul) / TJDFT (Fórum) / Rodoviária Interestadual de Brasília
+110.2,Rodoviária do Plano Piloto / UnB (CAESB)
+114.1,CIRCULAR - Rodoviária Plano Piloto / L2 Sul (Vila Telebrasília) / W3 Sul
+115.1,Rodoviária do Plano Piloto / L2 - W3 Norte
+115.2,Rodoviária do Plano Piloto (Esplanada) / L2 - W3 Norte
+116.1,Rodoviária do Plano Piloto / W3 - L2 Norte (Esplanada)
+116.2,Rodoviária do Plano Piloto / Eixo Monumental / Setor Noroeste
+128.1,Rodoviária Plano Piloto / W3 Norte (Noroeste) / Granja do Torto
+128.4,Terminal Asa Sul / W3 Sul / L2 Norte / Granja do Torto
+131.3,Rodoviária do Plano Piloto / Cruzeiro Novo-Velho / Sudoeste
+132.3,Park Way (Laranjeiras) / Lago Sul (Ponte das Garças) / São Sebastião / Rodoviária Plano Piloto (Ponte JK)
+1323,SETOR OESTE/SUL – OCTOGONAL VIA EIXO W NORTE / TORRE DE TV / SIG
+1324,ROD. PLANALTINA (GO) - OCTOGONAL VIA FEIRA / EIXO W NORTE / TORRE DE TV / SIG
+1325,CASARÃO – OCTOGONAL VIA EIXO W NORTE / TORRE DE TV / SIG
+1326,ROD. PLANALTINA (GO) - NOROESTE VIA FEIRA / W3 NORTE
+136.2,Terminal Asa Sul / W3 Sul - Norte / Lago Norte (Hospital SARAH)
+136.5,Rodoviária do Plano Piloto / L2 Norte / Clube do Congresso (Hospital SARAH) / W3 Norte
+136.6,Varjão / Centro de Atividades do Lago Norte / W3 Norte - Sul / Terminal Asa Sul
+136.7,Varjão / L2 Norte – Sul / Terminal Asa Sul
+136.9,Varjão / Centro de Atividades do Lago Norte / Eixo Norte-Sul / Terminal Asa Sul
+140.1,Rodoviária do Plano Piloto / Vila Planalto / Setor de Embaixadas / L2 - W3 Norte
+143.1,Rodoviária do Plano Piloto / RCG (Colégio Militar)
+143.2,Rodoviária do Plano Piloto / Hospital da Criança / Setor Militar Urbano
+147.2,São Sebastião (Residencial do Bosque)/ W3 Sul (Ponte JK)
+147.3,São Sebastião / Rodoviária do Plano Piloto (Ponte Honestino Guimarães)
+147.4,São Sebastião / Lago Sul (DF-035 - Ponte Costa e Silva) / L2 Norte
+147.5,São Sebastião (Residencial do Bosque) / W3 Norte (Ponte JK)
+147.6,São Sebastião (Residêncial do Bosque) / Lago Sul (QI 15 - Ponte das Garças) / Rodoviária do Plano Piloto (L2 Sul)
+147.9,São Sebastião / L2 Norte (Esplanada - UnB)
+151.2,Cruzeiro / Octogonal / Setor Policial / W3 Sul - Norte / Setor Noroeste
+152.1,Circular - Rodoviária do Plano Piloto / SIG / Sudoeste / Cruzeiro
+152.2,Cruzeiro (Sudoeste) / Rodoviária do Plano Piloto (Esplanada - SIG)
+152.3,Cruzeiro/ Esplanada/ Rodoviária do Plano Piloto
+152.5,Rodoviária do Plano Piloto / SIG / Avenida Comercial do Sudoeste / Cruzeiro
+153.2,Rodoviária Plano Piloto / Eixo Sul / Guará I-II
+154.2,Guará I - II / Rodoviária do Plano Piloto (QE 34 - Zoo - Eixo Sul)
+154.3,Guará I - II / Esplanada dos Ministérios (Eixo)
+156.1,Guará I - II / Setor Policial / W3 Sul - Norte
+156.5,Circular - W3 Norte / Guará I - II (Avenida Central - Avenida Contorno Guará II)
+156.6,W3 Norte - SIG / Guará I-II (Av. Contorno - Av. Central Guará II)
+156.7,Guará I - II (Av Central - Av Contorno) / W3 Norte (Via SIG)
+156.8,Guará I - II (Av Contorno - Av Central) / W3 Norte
+157.6,Guará I - II / Lúcio Costa / Candangolândia / Park Shopping (Candagolâdia - SOF Sul)
+158.1,Rodoviária do Plano Piloto / W3 Sul / Cidade Estrutural
+158.2,Cidade Estrutural / W3 Norte (Eixo Monumental)
+158.3,Cidade Estrutural / Rodoviária do Plano Piloto (Eixo Sul)
+158.4,Cidade Estrutural / L2 Sul (Esplanada)
+158.5,Cidade Estrutural / Rodoviária do Plano Piloto (Eixo Monumental)
+158.6,Cidade Estrutural / SIA T2 (Feira dos Importados) / Rodoviária do Plano Piloto
+160.1,Núcleo Bandeirante - Metropolitana / Rodoviária do Plano Piloto (Eixo)
+160.2,Núcleo Bandeirante (Zoológico) / L2 Sul - Norte / Esplanada / UNB / Terminal Asa Norte
+160.3,Candangolândia (Zoológico - Eixo) / Rodoviária do Plano Piloto
+162.1,Rodoviária do Plano Piloto / Guará II (W3 Sul - Park QE 44)
+162.2,Guará I e II / Setor Policial Sul / W3 Sul / Esplanada
+163.1,Candangolândia / W3 Sul e Norte
+167.1,Guará II - I / EPTG / L2 Sul - Norte / Esplanada / Terminal Asa Norte
+170.1,Barreiros (EDF - 140) / Lago Sul (Ponte das Garças) / T. Asa Norte (W3 Sul - Norte)
+172.7,Riacho Fundo / W3 Sul / Rodoviária do Plano Piloto (KANEGAE)
+180.0,São Sebastião / Rod. P. Piloto (Ponte JK)
+180.1,São Sebastião (Residêncial do Bosque / Vila Nova / São José Qd. 100/200)/ Rod. P. Piloto (Ponte JK)
+180.2,Jardins Mangueiral / Rodoviária do Plano Piloto (Ponte JK)
+180.3,Condomínios Itaipu (Ouro Vermelho II) / Avenida do Sol / Rodoviária do Plano Piloto
+180.5,Jardins Mangueiral / W3 Sul
+180.6,Jardins Mangueiral / W3 Norte
+181.6,São Sebastião (Residêncial do Bosque) / Lago Sul (EPDB- Gilberto Salomão - Hospital de Brasília)
+182.2,São Sebastião (Residencial do Bosque)/ SAAN (Ponte JK)
+194.1,São Sebastião (Residêncial do Bosque / Vila Nova / São José - Qd 100 / 200) / W3 Sul (Ponte JK)
+194.2,São Sebastião (Residencial Oeste - Pró DF) / W3 Sul (Ponte JK)
+196.2,São Sebastião (Residencial Bosque Quadra 100-200) / Lago Norte (Ponte JK / Vila Planalto / Setor de Clubes Norte)
+197.1,(Residencial do Bosque - Vila São José - QD 100/200) / Lago Sul (Ponte Costa e Silva) / SQN 416 (L2 Norte - Esplanada)
+197.3,São Sebastião (Bairro São Francisco Qd. 09 - QI 23) / Rodoviária do Plano Piloto (Ponte JK)
+197.5,São Sebastião (Residencial Oeste - Pró DF) / Rodoviária do Plano Piloto (Ponte JK)
+197.6,São Sebastião (Morro da Cruz – QI 23) / Rodoviária do Plano Piloto (Ponte JK)
+197.7,São Sebastião (Parque dos Ipês (Crixá) - QI 23) / Rodoviária do Plano Piloto (Ponte JK)
+2001,ROYAL PARK - ROD. PLANO PILOTO VIA SETOR POLICIAL / EIXO W
+2002,ROYAL PARK - ROD. PLANO PILOTO VIA ESTRUTURAL / W3 NORTE / L2 NORTE
+2004,CHIOLA/MORADA DA SERRA - ROD. PLANO PILOTO VIA ESTRUTURAL
+2004D,CHIOLA/MORADA DA SERRA - ROD. PLANO PILOTO VIA ESTRUTURAL (serviço diferenciado)
+2005,SANTA LUCIA - ROD. P.PILOTO VIA EPTG / GUARÁ 1-2 / SETOR GRÁFICO
+2006,SANTA LUCIA - ROD. PLANO PILOTO VIA ESTRUTURAL / EIXO MONUMENTAL
+2008,JARDIM LARANJEIRA/COIMBRA - ROD. PLANO PILOTO VIA EPTG/EIXO SUL
+2010,PINHEIRO 4 E 5 - ROD. PLANO PILOTO VIA EPTG/EIXO SUL
+2012,PINHEIRO 1 - ROD. PLANO PILOTO VIA EPTG / EIXO SUL
+2013,PINHEIRO 1 - ROD. PLANO PILOTO VIA ESTRUTURAL
+2015,PINHEIRO 2 - ROD. PLANO PILOTO EPTG/ EIXO SUL
+2016,PINHEIRO 2 - ROD. PLANO PILOTO VIA ESTRUTURAL
+2016D,PINHEIRO 2 - ROD. PLANO PILOTO VIA ESTRUTURAL (serviço diferenciado)
+2019,PINHEIRO 1 E 2 - ROD. PLANO PILOTO VIA EIXO SUL
+2040,ROYAL PARK - ESPLANADA VIA ESTRUTURAL / ROD. PLANO PILOTO
+2042,CHIOLA/MORADA DA SERRA - ESPLANADA VIA ESTRUTURAL / ROD. PLANO PILOTO
+2043,JARDIM PARAISO - ESPLANADA VIA ESTRUTURAL / ROD. PLANO PILOTO
+2044,SANTA LUCIA - ESPLANADA VIA ESTRUTURAL / ROD. PLANO PILOTO
+2045,PINHEIRO 4 e 5 - ESPLANADA / ROD. PLANO PILOTO, VIA ESTRUTURAL
+2047,PINHEIRO 1 - ESPLANADA / ROD. PLANO PILOTO, VIA ESTRUTURAL
+2047D,PINHEIRO 1 - ESPLANADA / ROD. PLANO PILOTO, VIA ESTRUTURAL (serviço diferenciado)
+2048,JARDIM LARANJEIRA/COIMBRA - ESPLANADA / ROD. PLANO PILOTO, VIA ESTRUTURAL
+2049,PINHEIRO 2 - ESPLANADA / ROD. PLANO PILOTO, VIA ESTRUTURAL
+2051,MONTE ALTO - ESPLANADA VIA ROD. PLANO PILOTO / EIXO W / EPTG / PISTÃO NORTE / FASSINCRA / BRAZLÂNDIA
+2061,CHIOLA/MORADA DA SERRA - W3 NORTE VIA ESTRUTURAL / L2 NORTE / ROD. PLANO PILOTO
+2061D,CHIOLA/MORADA DA SERRA - W3 NORTE VIA ESTRUTURAL / L2 NORTE / ROD. PLANO PILOTO (SERVIÇO DIFERENCIADO)
+2062,JARDIM PARAISO - W3 NORTE / L2 NORTE / ROD. PLANO PILOTO, VIA ESTRUTURAL
+2063,SANTA LUCIA - W3 NORTE VIA ESTRUTURAL / EIXO NORTE / ROD. P.PILOTO
+2064,JARDIM GUAIRA - W3 NORTE / L2 NORTE /ROD. PLANO PILOTO, VIA ESTRUTURAL
+2065,PINHEIRO 4 E 5 - W3 NORTE / ROD. PLANO PILOTO / L2 NORTE. VIA ESTRUTURAL
+2066,JARDIM LARANJEIRA/COIMBRA - W3 NORTE / ROD. PLANO PILOTO, VIA ESTRUTURAL
+2068,PINHEIRO 1 - W3 NORTE / L2 NORTE /ROD. PLANO PILOTO, VIA ESTRUTURAL
+2069,PINHEIRO 2 - W3 NORTE / L2 NORTE / ROD. PLANO PILOTO, VIA ESTRUTURAL
+2075,MONTE ALTO - W3 NORTE VIA BRAZLÂNDIA / INCRA 08 / BR 070 / EPTG / SETOR GRÁFICO
+2078,MONTE ALTO - ROD. PLANO PILOTO VIA BRAZLÂNDIA / DF-180 / PISTÃO NORTE / EPTG / EIXO W
+2079,MONTE ALTO - ROD. PLANO PILOTO VIA BRAZLÂNDIA / EIXO W / EPTG / PISTÃO NORTE / FASSINCRA
+2080,MONTE ALTO - ROD. PLANO PILOTO VIA BRAZLÂNDIA / FASSINCRA / ESTRUTURAL / EIXO MONUMENTAL / AEROPORTO / EIXO W
+2082,MONTE ALTO - ROD. PLANO PILOTO VIA EIXO W / EPIA / FASSINCRA / ESTRUTURAL
+2085,MONTE ALTO - ROD. PLANO PILOTO VIA EIXO W/ EPTG / COMERCIAL NORTE / HELIO PRATES / BR 070 / INCRA 08 / BRAZLÂNDIA
+2095,GIRASSOL/BRASÍLIA ESTRUTURAL/ESPLANADA
+2096,COCALZINHO DE GOIÁS (GIRASSOL) /BRASÍLIA VIA ESTRUTURAL/W3 NORTE/NOROESTE
+2097,GIRASSOL/BRASÍLIA W3 NORTE/L2 SUL
+2201,TR 20 - Terminal de Integração do Gama / Rodoviária do Plano Piloto (Expressa)
+2202,TR 21 - Terminal de Integração do Gama / Rodoviária do Plano Piloto (Paradora - Eixo Leste/Oeste)
+2203,Gama / L2 Sul - Norte / UnB / Terminal Asa Norte
+2205,Terminal de Integração do Gama / W3 Sul
+2206,Terminal de Integração do Gama / W3 Norte (Semi-Expressa)
+2207,Park Way / W3 Sul e Norte
+2208,Terminal de Integração do Gama / Setor de Indústrias Gráficas (SIG)
+2209,Estação Park Way / Setor de Indústrias Gráficas (SIG)
+2210,TERMINAL DE INTEGRAÇÃO DO GAMA / SIA - SMU - SAAN
+2212,(Estação Park Way / W3 Sul)
+2301,TR 25 - Santa Maria / Rodoviária do Plano Piloto (Expressa)
+2302,MORADA DA SERRA/CHIOLA - EPTG / EIXO SUL / ROD. PLANO PILOTO
+2302D,MORADA DA SERRA/CHIOLA - EPTG / EIXO SUL / ROD. PLANO PILOTO (serviço diferenciado)
+2303D,JARDIM PARAISO - EPTG / EIXO SUL / ROD. PLANO PILOTO (serviço diferenciado)
+2304,SANTA LUCIA - S I A VIA SETOR POLICIAL / EIXO SUL / OCTOGONAL / ROD. PLANO PILOTO
+2305,JARDIM GUAIRA - EPTG / EIXO SUL / ROD. PLANO PILOTO
+2306,Terminal de Integração de Santa Maria / W3 Norte (Semi Expressa)
+2307,Terminal de Integração Santa Maria / Setor de Indústrias Gráficas (SIG)
+2308,Terminal de Integração de Santa Maria / W3 Norte
+2310,TERMINAL DE INTEGRAÇÃO DE SANTA MARIA / SIA - SAAN
+2320,MORADA DA SERRA/CHIOLA - S I G VIA ESTRUTURAL / ROD. PLANO PILOTO
+2320D,MORADA DA SERRA/CHIOLA - S I G VIA ESTRUTURAL / ROD. PLANO PILOTO (serviço diferenciado)
+2321,MORADA DA SERRA/CHIOLA - GUARÁ 1-2 / ROD. PLANO PILOTO, VIA EPTG/PARKSHOPPING
+2322,SANTA LUCIA - S I G VIA EPTG / BR-070 / ROD. PLANO PILOTO
+2323,PINHEIRO 1 - S I G / ROD. PLANO PILOTO,VIA ESTRUTURAL
+2324,PINHEIRO 2 - S I G / ROD. PLANO PILOTO, VIA ESTRUTURAL
+2325,PINHEIRO 4 E 5 - SIG / ROD. PLANO PILOTO, VIA ESTRUTURAL
+2360,MORADA DA SERRA/CHIOLA - NOROESTE VIA ESTRUTURAL / SAAN
+2361,PINHEIRO 2 - NOROESTE , VIA SAAN
+2362,ÁGUAS LINDAS (PINHEIRO 1) – SAAN - NOROESTE
+2373,SANTA LUCIA - NOROESTE VIA ESTRUTURAL / EIXO MONUMENTAL / W3 NORTE
+250.3,Santa Maria (QD 100/200) / Rodoviária do Plano Piloto (Corujão)
+2601,PINHEIRO I - GUARÁ 1 E 2/ ROD. PLANO PILOTO
+2602,PINHEIRO 2 - GUARÁ 1 E 2 / ROD. PLANO PILOTO, VIA EPTG/PARKSHOPPING
+300.1,Taguatinga Norte (Nova QNL) / Rodoviária do Plano Piloto (Eixo)
+3002,ROD. QUEIROZ / BRASILIA /BANDEIRANTE/ ROD. PLANO PILOTO
+3007,JARDIM ALÁ / PED XI /BRASILIA / W3 SUL e NORTE/NOROESTE
+3018,PARQUE SAD / ROD. QUEIROZ / BRASÍLIA / PARK SHOPPING / S POLICIAL/ W3 SUL
+304.1,Setor P Sul / Cruzeiro (Comercial Norte - SIA - SAAN - Samdu Norte)
+305.4,Taguatinga Sul - QS 11 - Vereda da Cruz - Areal - Águas Claras / W3 Sul - Norte (EPTG)
+305.6,Taguatinga Sul - Areal - Arniqueira / W3 Sul - Norte (EPTG)
+306.1,Taguatinga Sul / Rodoviária do Plano Piloto (QS 11 - Vereda da Cruz - Águas Claras - EPTG - Eixo)
+306.2,Taguatinga Sul - Areal - Arniqueira / Rodoviária do Plano Piloto (Eixo)
+306.5,Taguatinga Sul - Areal - Arniqueira / Esplanada - Rodoviária do Plano Piloto - EPNB (Eixo)
+3075,ROD SAD / BRASÍLIA / W3 SUL- NORTE
+3079,PARQUE SAD / PED XVII / ROD. QUEIROZ / BRASÍLIA / SIA / W3 SUL- NORTE
+3080,ROD. QUEIROZ / PARQUE SAD / BRASÍLIA / SIA / W3 SUL- NORTE- NOROESTE
+310.1,Setor O / Rodoviária do Plano Piloto (Parkshopping - Zoológico)
+313.2,Setor O / W3 Sul 716 (SIG) - Semi Expressa
+322.1,Setor M Norte (QNL - Via Estádio) / SOF Sul (EPTG) / Rodoviária do Plano Piloto (Parkshopping - Zoológico)
+322.2,Setor M (QNL - QNJ) / Rodoviária do Plano Piloto (Eixo)
+323.2,SETOR O / M NORTE ( M – L) / W3 SUL (SIG - Q 716) – SEMIEXPRESSA
+324.1,Setor M / Esplanada (Estrutural)
+330.1,QNR 5 / SOL NASCENTE T. III / EPTG - SIG / W3 NORTE
+3302,PARQUE SAD / ROD. QUEIROZ / BRASÍLIA / SETOR GRÁFICO/ W3 NORTE/ NOROESTE
+335.1,Setor O / EPTG / SIG / W3 Sul (Quadra 716 Sul) - Semiexpressa
+336.1,Setor P Sul / Rodoviária do Plano Piloto (Park Shopping - Zoológico)
+336.2,Setor "P" Sul / Rodoviária do Plano Piloto / Esplanada (Eixo)
+337.1,Setor "P" Sul / W3 Sul (via Setor Policial) / Rodoviária do Plano Piloto
+338.1,Setor O (Expansão - P2 Norte) /Estrutural / L2 Norte / UNB / Terminal Asa Norte
+343.2,QNR 5 (P2 Norte) / Rodoviária do Plano Piloto (Avenida Hélio Prates - Estrutural)
+343.6,Setor O Norte / Rodoviária do Plano Piloto / Esplanada (Estrutural)
+348.1,Setor O (Expansão - Via Leste) / EPTG / L2 Sul-Norte / UNB / Terminal Asa Norte (Semiexpressa)
+373.2,Samambaia Norte (1 Avenida)/ Rodoviária do Plano Piloto (SHIS - EPNB - EIXO)
+373.3,Samambaia Norte (2 Avenida)/ Rodoviaria do Plano Piloto (via Estrutural)
+374.2,Setor O (Via Leste) / W3 Norte (Estrutural)
+376.1,Taguatinga Sul (Areal) / W3 Norte (Estrutural)
+376.3,Taguatinga Sul / SIA-SAAN / Terminal Provisório da Asa Norte
+379.1,Setor O (Hélio Prates) / EPTG / SIA / EPIA / Eixo Monumental / W3 Norte / Terminal Asa Norte
+379.2,QNR 5 (P2 N - Hélio Prates) / W3 Norte (Estrutural)
+380.2,Samambaia Norte (1 Avenida) / Rodoviária do Plano Piloto (EPTG - SIG)
+380.3,Samambaia Norte (2ª Avenida)/ Taguatinga (Setor Primavera)/EPTG (expressa) W3 Sul/ Terminal Asa Sul
+380.4,Samambaia Norte (1ª Avenida) / Rodoviária do Plano Piloto (EPTG (Expressa) - SIG)
+382.1,Setor O / Rodoviária do Plano Piloto (EPTG - EPIA)
+383.1,Setor P Sul/ Rodoviária do Plano Piloto (Pista do Estádio - EPTG - EPIA)
+383.3,Sol Nascente (Trecho I/Hélio Prates/Via Estrutural)/Rodoviária do Plano Piloto
+385.1,QNR / SOL NASCENTE TRECHO III / (P1 NORTE - P1 SUL) / EPTG / ROD. PLANO PILOTO
+391.3,Samambaia Norte (1 Avenida - EPNB - ParkShopping - Setor Policial Sul) / W3 Sul - Norte
+392.2,Samambaia Norte (2ª Avenida) / EPNB / L2 Sul - Norte / Esplanada / UNB / Terminal Asa Norte
+394.1,Samambaia Sul (2 Avenida) / Rodoviária do Plano Piloto (Pistão Sul - EPTG - SIG)
+394.4,Samambaia Sul (2ª Avenida) / Rodoviária do Plano Piloto (EPTG (Expressa) - SIG)
+396.2,Samambaia Sul (1 Avenida) / W3 Sul - Norte (EPNB)
+396.3,Samambaia Sul (2 Avenida) / W3 Sul - Norte (EPNB - Parkshopping - Setor Policial Sul)
+400.2,Brazlândia / Rodoviária do Plano Piloto (DF-240 - Estrutural - Eixo)
+4004,PEDREGAL - VIA NOVO GAMA/ PARKSHOPPING /ROD. P.PILOTO
+4007,PEDREGAL - ROD. P.PILOTO VIA NOVO GAMA/ EIXO
+4041,LAGO AZUL - ROD. PLANO PILOTO VIA PARKSHOPPING /ZOOLÓGICO / EIXO W SUL
+4049,LUNABEL – ROD. PLANO PILOTO VIA PARK SHOPPING / ZOOLÓGICO / EIXO W SUL
+4055,RESID. SANTA LUZIA (LAGO AZUL) – ROD. PLANO PILOTO VIA PARK SHOPPING / ZOOLÓGICO / EIXO W SUL
+4060,RESID. AMÉRICA DO SUL (LAGO AZUL) – ROD. PLANO PILOTO VIA RESID. ALVORADA / PARK SHOPPING / ZOOLÓGICO / EIXO W SUL
+4070,PEDREGAL - ESPLANADA VIA EPAR
+4085,PEDREGAL - EIXO SUL E NORTE VIA EPAR
+4087,PEDREGAL - W3 SUL E NORTE VIA EPAR
+4090,LAGO AZUL – W3 NORTE E SUL VIA PARK SHOPPING / SETOR POLICIAL
+4093,ROCINHA (LAGO AZUL) – W3 NORTE E SUL VIA RESID. ALVORADA / RESID. AMÉRICA DO SUL / BALÃO DO AEROPORTO
+4094,SANTA LUZIA (LAGO AZUL) – W3 NORTE E SUL VIA AEROPORTO
+411.2,Brazlândia (Alexandre Gusmão - Incra 8 - DF 240 - Estrutural) / W3 Norte
+413.1,Brazlândia (Incra 08 - BR-070) / W3 Sul (EPTG - Quadra 716 Sul)
+413.2,Brazlândia (Incra 8 - DF-240) / W3 Sul (EPTG - SIG)
+413.4,Brazlândia (DF-240) / W3 Sul - Norte (Estrutural - EPIA - SPS)
+423.1,Brazlândia (BR-251) / W3 Sul - SIG (Estrutural)
+4310,PEDREGAL - S I A VIA SOF NORTE
+4320,LAGO AZUL – ROD. PLANO PILOTO VIA PARK SHOPPING / SIG / TORRE DE TV
+4321,LAGO AZUL – ROD. PLANO PILOTO VIA AEROPORTO / LAGO SUL / PONTE JK / ESPLANADA
+4323,SANTA LUZIA – L2 NORTE VIA PARK SHOPPING / SIG / TORRE DE TV
+4331,SANTA LUZIA (LAGO AZUL) – SIA/SAAN
+5002,CEU AZUL - ROD. PLANO PILOTO VIA EPGU-ZOOLÓGICO / EIXO W SUL
+5002E,CEU AZUL - ROD. PLANO PILOTO VIA EPGU-ZOOLÓGICO / EIXO W SUL EXPRESSO BRT
+5003,CEU AZUL - EIXO W SUL E NORTE, VIA BALÃO DO AEROPORTO /ROD. PLANO PILOTO
+5004,PACAEMBU - ROD. PLANO PILOTO VIA CÉU AZUL / EPGU- ZOOLÓGICO / EIXO
+5005,CEU AZUL - ROD. PLANO PILOTO VIA SETOR DE CHÁCARA ANHANGUERA / EPGU / EIXO W SUL
+5007,VALPARAISO - ROD. PLANO PILOTO VIA ETAPA B / BR 040 / EIXO W SUL
+5007E,VALPARAISO - ROD. PLANO PILOTO VIA ETAPA B / BR 040 / EIXO W SUL EXPRESSO BRT
+5009,VALPARAISO - ROD. PLANO PILOTO VIA ETAPA B / BR 040 / PARK SHOPPING
+5009E,VALPARAISO - ROD. PLANO PILOTO VIA ETAPA B / BR 040 / PARK SHOPPING EXPRESSO BRT
+501.1,Sobradinho / Esplanada (Eixo Norte)
+501.2,Sobradinho (Condomínio RK - ANP) / Eixo Norte - Sul (Terminal Asa Sul)
+501.3,Sobradinho II (Setor Oeste) / Eixo Norte-Sul / Terminal Asa Sul
+501.4,Sobradinho I e II (Setor Oeste) / Eixo Norte - Sul
+501.7,Sobradinho I (Quadrad 18) / Eixo Norte - Sul (Terminal Asa Sul)
+5010,VALPARAÍSO DE GOIÁS I /GO (IPIRINGA) VIA BR 040 - ROD. PLANO PILOTO P/ SHOPPING
+5011,VALPARAISO - ROD. PLANO PILOTO VIA EPGU / EIXO W SUL
+5011E,VALPARAISO - ROD. PLANO PILOTO VIA EPGU / EIXO W SUL EXPRESSO BRT
+5012,PARQUE MARAJO =ROD PLANO PILOTO VIA PARK SHOPPING /SETOR POLICIAL SUL EIXO
+5017,PACAEMBU CEU AZUL / ESPLANADA/VIA EIXO W SUL
+5021,VALPARAISO - ROD. PLANO PILOTO, VIA ETAPA B / BALÃO DO AEROPORTO / EIXO W SUL / ESPLANADA
+5021E,VALPARAISO - ROD. PLANO PILOTO, VIA ETAPA B / BALÃO DO AEROPORTO / EIXO W SUL / ESPLANADA EXPRESSO BRT
+503.3,Sobradinho I - II / SAAN / SIA / SGCV / TAS
+5031,CEU AZUL - W3 SUL E NORTE VIA BALÃO DO AEROPORTO
+5031E,CEU AZUL - W3 SUL E NORTE VIA BALÃO DO AEROPORTO EXPRESSO BRT
+5034E,CEU AZUL - W3 NORTE VIA PARKSHOPPING / SETOR GRÁFICO / BURITI EXPRE
+5035,PACAEMBU - W3 SUL E NORTE VIA CÉU AZUL / BALÃO DO AEROPORTO
+5035E,PACAEMBU - W3 SUL E NORTE VIA CÉU AZUL / BALÃO DO AEROPORTO EXPRESSO BRT
+5036,CEU AZUL - W3 SUL E NORTE VIA SETOR DE CHÁCARA ANHANGUERA / BALÃO DO AEROPORTO
+5037,VALPARAISO - W3 NORTE VIA ETAPA B / BR 040 / PARK SHOPPING / SETOR GRÁFICO
+5037E,VALPARAISO - W3 NORTE VIA ETAPA B / BR 040 / PARK SHOPPING / SETOR GRÁFICO EXPRESSO BRT
+5039,VALPARAISO II - W3 SUL E NORTE
+5039E,VALPARAISO II - W3 SUL E NORTE EXPRESSO
+5041,VALPARAISO - W3 SUL E NORTE VIA ETABA B / BALÃO AEROPORTO
+5041E,VALPARAISO - W3 SUL E NORTE VIA ETABA B / BALÃO AEROPORTO EXPRESSO BRT
+506.4,Ciplan (Fercal - Rua do Mato) / Eixo Norte - Sul
+5069,VALPARAISO II - ROD. PLANO PILOTO, VIA BALÃO DO AEROPORTO / EIXO W SUL / ESPLANADA
+5070,VALPARAÍSO DE GOIÁS I /GO (IPIRINGA) - W3 NORTE VIA PARKSHOPPING
+509.1,Condomínio Uberaba / Nova Colina / Sobradinho I (Quadra 18) / Eixo Norte - Sul / Terminal Asa Sul
+512.1,Sobradinho I / W3 Norte - Sul / Terminal Asa Sul
+515.3,Basevi / Rodoviária do Plano Piloto (Via Eixo Norte)
+515.6,Lago Oeste / Basevi / Rodoviária do Plano Piloto (Via Eixo Norte)
+517.2,Sobradinho II (Buritis - DF-150) / W3 Norte - Sul
+519.1,Sobradinho II (Mansões / Vila Rabelo) / W3 Norte - Sul
+519.2,Vila Rabelo I - II / Eixo Norte - Sul
+522.1,Sobradinho I e II / Quadra 18 / Setor Oeste / L2 Norte - Sul (UnB)
+5301,CEU AZUL – BURITI VIA PARKSHOPPING / SIG
+5303,PARQUE MARAJÓ - W3 NORTE VIA VIA PARKSHOPPING / SIG / BURITI / TORRE DE TV
+5304,VALPARAISO - W3 NORTE VIA VIA PARKSHOPPING / SIG / BURITI / TORRE DE TV
+5304E,VALPARAISO - W3 NORTE VIA VIA PARKSHOPPING / SIG / BURITI / TORRE DE TV EXPRESSO BRT
+5305,PACAEMBU – BURITI VIA PARKSHOPPING / SIG
+5306,PARQUE MARAJÓ - W3 SUL E NORTE VIA PARKSHOPPING SETOR POLICIAL
+531.3,Ciplan (Fercal - Rua do Mato) / Eixo Norte - Sul
+5321,CEU AZUL - SIA/SAAN VIA PARKSHOPPING
+5322,VALPARAISO - SIA/SAAN VIA PARKSHOPPING
+5323,PACAEMBU - SIA/SAAN VIA CÉU AZUL / PARK SHOPPING
+5324,VALPARAISO - SIA/SAAN VIA PARKSHOPPING
+557.1,QNR 5 (P2 Norte - Via Leste) / EPTG / SIG / W3 Sul (Qd 716 Sul) - Semiexpressa
+600.2,Planaltina (DF-130) / Eixo Norte - Sul (Terminal Asa Sul)
+600.3,Arapoangas (Estâncias I - V) / Eixo Norte - Sul (Terminal Asa Sul)
+600.6,Planaltina / Palácio do Buriti - SIG
+600.7,Planaltina (Avenida Independência) / Eixo Norte - Sul / Terminal Asa Sul
+600.8,Planaltina (Av. Independência) / L2 Norte (UnB) / L2 Sul
+6002E,JARDIM INGÁ - ROD. PLANO PILOTO VIA VIA PARKSHOPPING/P.E.D. 10
+6004,JARDIM INGÁ - ROD. PLANO PILOTO VIA P.E.D. 10 /EIXO W
+6008,CNTI - PLANALDO - ROD.PLANO PILOTO VIA EIXO W / ZOOLOGICO
+601.3,CIRCULAR - Terminal Planaltina / Setor Tradicional / Setor Sul / Terminal Planaltina / Vila de Fátima (UnB)
+6011,SOL NASCENTE - ROD. PLANO PILOTO VIA VIA EIXO W / ZOOLOGICO
+6013,JARDIM INGÁ - ROD. PLANO PILOTO VIA JARDIM MARILIA / VIA EIXO W
+6015,JARDIM INGÁ - W3 SUL E NORTE VIA PARKSHOPPING/P.E.D. 10
+6018E,SOL NASCENTE - ROD. PLANO PILOTO VIA VIA EIXO W / PARKSHOPPING
+602.1,Planaltina (Buritis III - Jardim Roriz) / Eixo Norte - Sul (Estação Asa Sul)
+6026,SOL NASCENTE - ROD. PLANO PILOTO VIA VIA EIXO W / PARKSHOPPING
+604.1,Planaltina (DF - 128) / SAAN / SIA / SGCV / TAS
+604.2,Arapoangas / Estâncias / SAAN / SIA / SGCV / TAS
+604.3,Vale do Amanhecer (Avenida Independência) / SAAN / SIA / SGCV / TAS
+605.1,Planaltina (Buriti III) / L2 Norte - Sul (Esplanada) / Terminal Asa Sul
+6051,JARDIM INGÁ - ESPLANADA VIA VIA P.E.D. 10
+6079,JARDIM INGÁ - GUARÁ VIA SIG
+616.1,Arapoangas / Paranoá (Ponte JK) / Rodoviária do Plano Piloto
+616.2,Arapoangas - Estância / Eixo Norte - Sul
+616.3,Arapoangas - Condomínios Estâncias / Eixo Norte - Sul
+616.4,Buritis IV - Arapoangas (Avenida Independência) / Eixo Norte - Sul
+616.5,Arapoangas (Avenida Independência) / Eixo Norte - Sul
+616.6,Arapoangas - Estâncias (I - V) / L2 Norte - Sul (Esplanada)
+616.7,Arapoanga/ Vale do Amanhecer/ Rajadinha II e III / Rodoviária do Plano Piloto
+617.2,Vale do Amanhecer / W3 Norte-Sul / Terminal Asa Sul
+620.1,Planaltina (Avenida Independência) / Eixo Norte / Rodoviária do Plano Piloto
+624.1,Planaltina / Buritis IV / Esplanada (Eixo Norte) / Catedral
+630.1,Expresso Planaltina (PAPE - Jardim Roriz) / Rodoviária do Plano Piloto
+6302,JARDIM INGÁ - S I A/SAAN
+6302E,JARDIM INGÁ - S I A/SAAN
+640.1,Planaltina (BR-020) / Eixo Norte - Sul / Terminal Asa Sul
+640.2,Planaltina (Avenida Independência) / W3 Norte - Sul / Terminal Asa Sul
+642.1,Planaltina / Estância I a IV / W3 Norte - Sul / Terminal Asa Sul
+642.2,Planaltina (BR-020)/W3 Norte - Sul (Terminal Asa Sul)
+642.3,Estância (Condomínio Total Ville)/ W3 Norte e Sul
+643.1,Arapoangas (Estância - Galeria) / Rodoviária do Plano Piloto
+7001,LUZIÂNIA - ROD. PLANO PILOTO VIA VIA EIXO
+7005,LUZIÂNIA - L2 SUL / L2 NORTE VIA EPAR
+7024,LUZIÂNIA - ROD. PLANO PILOTO PARQUE 8
+7050,LUZIÂNIA - ROD. PLANO PILOTO VIA VIA EIXO ESPLANADA
+7051,LUZIÂNIA - P. SANTA FÉ ROD. PLANO PILOTO VIA EIXO ESPLANADA
+7075,LUZIÂNIA - W3 SUL E NORTE VIA PARQUE 8/PARKSHOPPING
+7077,PARQUE ALVORADA - W3 SUL E NORTE VIA VIA PARKSHOPPING
+7087,LUZIÂNIA - P. SANTA FÉ W3 NORTE VIA PARKSHOPPING / SIG
+7088,LUZIANIA - W3 SUL /NORTE VIA PARQUE ALVORADA
+7089,LUZIANIA - W3 NORTE VIA PARQUE 8
+759.1,Paranoá - Itapoã (DF - 005) / W3 Norte / Rodoviária do Plano Piloto
+760.1,Paranoá / Itapoã (DF - 005) / Rodoviária do Plano Piloto (L2 Norte)
+760.2,Itapoã / Rodoviária do Plano Piloto (L2 Norte)
+761.1,Condomínio La Fonte - Novo Horizonte / Paranoá (Av. Paranoá)/ Rodoviária Plano Piloto (Ponte JK)
+761.2,Terminal do Paranoá / Paranoá Parque/ Rodoviária Plano Piloto (Ponte JK)
+764.2,Terminal do Paranoá (Itapoã) / Rodoviária do Plano Piloto (Via Ponte JK)
+780.1,Condomínio La Font (Itapoã) / Rodoviária do Plano Piloto (Via Ponte JK)
+8001,CIDADE OCIDENTAL - ROD. PLANO PILOTO VIA EPGU-ZOOLÓGICO / EIXO W SUL
+8009E,CIDADE OCIDENTAL - ROD. PLANO PILOTO VIA PARKSHOPPING / EIXO W SUL EXPRESSA BRT
+8015,CID. OCIDENTAL – ROD. PLANO PILOTO VIA JARDIM ABC / PONTE JK / ESPLANADA
+8021,CIDADE OCIDENTAL (FRIBURGO) - ROD. PLANO PILOTO VIA EPGU-ZOOLÓGICO / EIXO W SUL
+8021E,CIDADE OCIDENTAL (FRIBURGO) - ROD. PLANO PILOTO VIA PARKSHOPPING / LINHA EXPRESSA BRT
+8023,CIDADE OCIDENTAL-FRIBURGO-SÃO MATEUS-ZOOLOGICO-ROD.PLANO PILOTO
+8025,CIDADE OCIDENTAL-PQ NAPOLIS-PQ ARAGUARI-ZOOLOGICO-ROD.PLANO PILOTO
+8065,MANSÕES MARAJÓ - BRASÍLIA VIA PONTE JK
+8071,CIDADE OCIDENTAL - W3 SUL E NORTE VIA BALÃO DO AEROPORTO
+8071E,CIDADE OCIDENTAL - W3 SUL E NORTE VIA BALÃO DO AEROPORTO LINHA EXPRESSA BRT
+8072E,CID. OCIDENTAL (FRIBURGO) – W3 NORTE E SUL VIA BALÃO DO AEROPORTO LINHA EXPRESSA BRT
+8073,CIDADE OCIDENTAL-FRIBURGO-S.MATEUS-AEROPORTO-W3 SUL-NORTE
+8074,CIDADE OCIDENTAL - W3 NORTE VIA JARDIM ABC /PONTE JK / ESPLANADA
+8075,CIDADE OCIDENTAL-PQ NAPOLIS-ARAGUARI-AEROPORTO-W3 SUL-NORTE
+8076,JARDIM ABC - W3 SUL E NORTE VIA GILBERTO SALOMÃO / L2 SUL
+8086E,CIDADE OCIDENTAL-FRIBURGO-S.MATEUS-S.GRAFICO-W3 NORTE/EXPRESSO BRT
+8087,CIDADE OCIDENTAL-P.NÁPOLIS-ARAGUARI-S.GRAFICO-W3 NORTE
+8087E,CIDADE OCIDENTAL-P.NÁPOLIS-ARAGUARI-S.GRAFICO-W3 NORTE/EXPRESSO BRT
+811.1,Riacho Fundo II (Avenida Contorno) / W3 Sul -Norte (EPNB - EPIA - Setor Policial Sul)
+813.1,Recanto das Emas / Rodoviária do Plano Piloto (EPTG - SIA - SIG)
+813.2,Recanto das Emas (EPNB - EPIA) / W3 Sul - Norte
+813.3,Recanto das Emas / W3 Sul - Norte (EPTG - ESPM - semiexpressa)
+818.1,Recanto das Emas/ SAAN (Estrutural)
+825.1,Setor Habitacional Água Quente / Rodoviária do Plano Piloto (BR-060 e EPNB)
+8310,CIDADE OCIDENTAL – SIA/SAAN VIA PARKSHOPPING / SOF NORTE
+8350,CIDADE OCIDENTAL - SMU VIA PARKSHOPPING / SIG / BURITI
+8350E,CIDADE OCIDENTAL - SMU VIA PARKSHOPPING / SIG / BURITI LINHA EXPRESSA BRT
+8351,CIDADE OCIDENTAL – SIA VIA JD. ABC / PONTE JK / ESPLANADA / SIG
+8370,CID. OCIDENTAL – CRUZEIRO VIA JD. ABC / PONTE JK / ESPLANADA / SIG
+844.1,Samambaia Norte (2 Avenida) / Setor Terminal Norte (Estrutural / SIA / SOFN)
+844.2,Samambaia Norte (2 Avenida - Estrutural - SIA - SOFN) / Setor Terminal Norte
+844.3,Samambaia Norte (2 Avenida) / SIA / SAAN (EPNB-Guará)
+845.2,Samambaia Sul (1 Avenida) / Guará / SIA / SAAN - EPNB
+870.1,Riacho Fundo II (QS 18 - CAUB II) / Rodoviária do Plano Piloto (Eixo)
+870.7,Recanto das Emas (Qd. 800) / Rodoviária do Plano Piloto (Eixo)
+870.9,Riacho Fundo II (Avenida Contorno) / Rodoviária do Plano Piloto (EPNB- Eixo)
+871.3,Recanto das Emas (Quadra 800 - EPNB - EPIA) / W3 Sul - Norte
+874.4,Recanto das Emas (Q.800) / Rodoviária do Plano (EPNB-SIG)
+902.2,Taguatinga Norte / QNL / Esplanada (Estrutural)
+910.1,Setor P Sul / SIA Trecho 17 - Cruzeiro - SAAN - Setor Terminal Norte (EPCT)
+920.4,Setor O (Condomínio Prive - Via Leste) / EPTG / Via Eixo / Esplanada / Rodoviária do Plano Piloto
+932.1,P Sul / Taguatinga Centro / EPTG / Rodoviária do Plano Piloto
+932.2,P Sul (Sol Nascente trecho I) / Hélio Prates / EPTG / W3 Sul / Rodoviária do Plano Piloto
+932.3,Por do Sol / Taguatinga Centro / EPTG / Rodoviária do Plano Piloto
+932.4,Terminal P Sul-P4 / Pôr do Sol / EPTG / W3 Sul e Norte
+942.1,Setor P Sul (QNL - J) / W3 Norte (EPTG/EPIA)
+942.2,Sol Nascente Trecho I (Estrutural)/W3 Norte

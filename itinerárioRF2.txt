@@ -1,0 +1,30 @@
+0.817	Taguatinga Norte > Samambaia Sul > Recanto das Emas (Q.800) > Riacho Fundo II (QS 18);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.870	Recanto das Emas (Q. 800)/ Riacho Fundo II/ Rodoviária do Plano Piloto (Eixo);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+806.1	Recanto das Emas (Quadra 800) > Riacho Fundo II (Av. Contorno) > Estação Furnas;R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+805.7	Recanto das Emas (Riacho Fundo II) > Águas Claras;R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+870.1	Riacho Fundo II (QS 18 – CAUB II) > Rodoviária do Plano Piloto (Eixo);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.806	Metrô (Estação Furnas) > Riacho Fundo II (CAUB II) > BRT Sul (Estação CAUB I);R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+0.882	Riacho Fundo II (QS 18) > Rodoviária do Plano Piloto (EPNB-SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+872.4	Riacho Fundo II (QS 18) – CAUB II > Taguatinga (Pistão Sul);R$ 3,50	URBI – MOBILID. URBANA – BACIA 03
+812.2	Recanto das Emas (Riacho Fundo II – QNs) > P Norte (Via Leste – QNR 05);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.873	Recanto das Emas (Q. 800)/ Riacho Fundo II > Setor O;R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.819	Recanto das Emas (Quadra 800) Riacho Fundo II > L2 Sul – Norte (EPNB – Esplanada – UnB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.878	Recanto das Emas (Qd. 600/800) – Riacho Fundo II > SIA – SAAN;R$ 5,00	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.876	Riacho Fundo II (QS 18) > SIA – Cruzeiro – SAAN;R$ 5,00	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.872	Recanto das Emas (Q.800)/ Riacho Fundo II/ Taguacenter (Feira dos Goianos);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+0.811	Riacho Fundo II (QS 18) > CAUB II (EPIA – Setor Policial Sul) > W3 SUL – NORTE (EPNB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+872.2	Recanto das Emas (Q 800) > Riacho Fundo II (QS 18) > Taguatinga Centro;R$ 3,50	URBI – MOBILID. URBANA – BACIA 03
+870.9	Riacho Fundo II (Avenida Contorno) > Rodoviária do Plano Piloto (EPNB- Eixo);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.874	Recanto das Emas (Quadra 800) – Riacho Fundo II > Rodoviária do Plano (EPNB – SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.884	Riacho Fundo II (QS 18 – EPNB – Zoológico) > L2 Sul – Norte (Esplanada – UNB);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+872.1	Riacho Fundo II (QS 18) > CAUB II > Taguacenter (Feira dos Goianos);R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+823.1	Recanto das Emas (Qd 800) – Riacho Fundo II > Guará (ParkShopping);R$ 5,00	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+872.9	Recanto das Emas (Q 800) > Riacho Fundo II > Taguacenter (via Boca da Mata);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+0.883	Riacho Fundo II (QS 18) – CAUB II > Setor O;R$ 3,50	EXPRESSO SÃO JOSÉ > URBI – MOBILID. URBANA – BACIA 03
+0.881	Riacho Fundo II (QS 18) – CAUB II > Rodoviária do Plano Piloto (SIG-Pistão Sul);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+0.871	Recanto das Emas (Quadra 800) > Riacho Fundo II (EPNB – EPTG) > Rodoviária do Plano Piloto (SIG);R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
+807.8	Recanto das Emas > Riacho Fundo II (QS18);R$ 2,50	URBI – MOBILID. URBANA – BACIA 03
+0.087	Riacho Fundo II – I > Núcleo Bandeirante > Cruzeiro (QS 18 – SOF Sul – SIA);R$ 3,50	URBI – MOBILID. URBANA – BACIA 03
+0.898	Riacho Fundo II (Qs 18) > Setor P Sul (Pistão Sul – Estádio);R$ 3,50	AUTO VIAÇÃO MARECHAL – BACIA 04 > URBI – MOBILID. URBANA – BACIA 03
+872.3	Recanto das Emas (Q 800) > Riacho Fundo II > Taguacenter;R$ 3,50	EXPRESSO SÃO JOSÉ
+871.2	Recanto das Emas (Quadra 600 > 800) > Riacho Fundo II (EPNB) > W3 Sul – Norte;R$ 5,00	URBI – MOBILID. URBANA – BACIA 03
